@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parking-montevideo/static/css/main.5bb9180c.css",
+    "main.js": "/parking-montevideo/static/js/main.61d339ca.js",
+    "static/js/453.ee23db1b.chunk.js": "/parking-montevideo/static/js/453.ee23db1b.chunk.js",
+    "index.html": "/parking-montevideo/index.html",
+    "main.5bb9180c.css.map": "/parking-montevideo/static/css/main.5bb9180c.css.map",
+    "main.61d339ca.js.map": "/parking-montevideo/static/js/main.61d339ca.js.map",
+    "453.ee23db1b.chunk.js.map": "/parking-montevideo/static/js/453.ee23db1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb9180c.css",
+    "static/js/main.61d339ca.js"
+  ]
+}
